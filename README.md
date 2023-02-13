@@ -6,4 +6,4 @@ Lihat hasil desain di GitHub Pages : https://yohanesaragae.github.io/sacode-onli
 
 ## Screenshot Hasil Belajar
 
-![image](https://user-images.githubusercontent.com/119453202/218466008-0a183d49-c7f1-4169-932d-cd1fe194cdca.png)
+![image](https://user-images.githubusercontent.com/119453202/218466433-8e7d87da-e00b-4b68-aa3a-0ae91f03be37.png)
